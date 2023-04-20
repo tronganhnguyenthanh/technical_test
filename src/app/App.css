@@ -1,0 +1,33 @@
+.title-weather{
+  font-weight:bold;
+  font-size:18px
+}
+
+.content-weather{
+  color:gray;
+  font-weight:500;
+  margin:20px
+}
+
+.weather-description{
+  color:black;
+  font-weight:500;
+  display:inline-flex;
+  margin:10px
+}
+
+.list-content-wf{
+  list-style-type:none
+}
+
+.list-content-wf{
+  padding-left:0
+}
+
+.wrapper{
+  width:90%;
+  height:auto;
+  border:1px solid lightgray;
+  padding:10px;
+  margin:auto
+}
